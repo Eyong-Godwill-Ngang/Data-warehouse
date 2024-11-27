@@ -1,0 +1,201 @@
+customer_id,customer_name,city,age,gender
+257,François de la Hamon,Lopez,69,Female
+2337,Capucine Pasquier,Meyer-les-Bains,42,Female
+2587,Hortense Coste,Sainte Marcel,32,Female
+4995,Zoé Hoareau,Gaudin-la-Forêt,57,Male
+337,Stéphanie Adam de Humbert,Delattre,51,Female
+4558,Danielle Grenier,Bègue,62,Female
+6108,Pénélope-Alix Lefebvre,Perret,61,Male
+4522,Céline Morel,Bailly,24,Female
+5376,Josette Pages,Joubert,38,Female
+8910,Robert du Guyot,Brunel,44,Female
+751,Claire Bernard-Pierre,Sainte Margaud,49,Female
+1280,Denis Camus du Guillou,Parent,43,Male
+9858,Benoît Gilles,Hamon,27,Male
+8732,Alphonse Weiss,Gaudin-sur-Lambert,33,Female
+2391,Nath Pinto-Seguin,AllainBourg,68,Male
+2301,Christophe Blanchard de Joly,Rodrigues-sur-Mer,65,Male
+5240,Lucie Vallet,Courtois,27,Female
+4681,Paul Morin de la Léger,Caron-sur-Caron,44,Female
+1683,Timothée Rey,Marion,69,Female
+724,Alix Teixeira-Delorme,Lacombe,59,Female
+5791,Anaïs Bourgeois,Sainte Renéeboeuf,22,Female
+7676,Jeanne-Colette Lefebvre,Bonnin,54,Female
+3465,Patricia Charrier,Louis,27,Female
+3132,Georges Lévêque,Brunet,57,Male
+3621,Matthieu Léger du Rivière,Sainte Sébastiendan,30,Male
+752,Jeanne Dos Santos,Saint Victor-la-Forêt,41,Female
+5192,Henri-Victor Mace,Giraudboeuf,31,Male
+7911,René Gosselin,Allain,23,Male
+7696,Matthieu Weber,LeblancBourg,59,Male
+7101,Victor Bodin,Lamy,47,Female
+6888,Théophile de Denis,Lecoqboeuf,23,Male
+5067,Louis Delmas,Sainte Aurélienec,27,Male
+9353,Agnès-Anastasie Torres,Hervéboeuf,32,Female
+100,Charles-Guillaume Lemaître,Saint Augustin,31,Male
+6289,Louis Bouchet,BoulangerVille,25,Male
+3864,Théodore Morvan,Perrierboeuf,22,Female
+7326,Étienne-Lucas Perrot,PaulVille,40,Female
+3429,Victor-Xavier Delaunay,Picardboeuf,65,Female
+911,Renée Hardy,Valentin-la-Forêt,26,Male
+7125,Isaac Chevalier,Dupontdan,68,Male
+6637,Timothée Dubois de la Dumas,Sainte Valentine-sur-Mer,30,Female
+152,Sylvie Raymond,Menard,62,Male
+5621,Michèle Duhamel,Arnaud-sur-Mer,24,Male
+1468,Julien Moulin,Mary-sur-Noël,60,Male
+2790,Lucie de la Maurice,Hebertdan,22,Female
+2929,François Martineau du François,Allain,63,Female
+8060,Émilie Girard de la Descamps,ValletVille,43,Female
+2696,Georges Perret,Lambert,38,Female
+3248,Pierre de Simon,Laurentboeuf,50,Female
+1050,Gérard Guichard,LerouxVille,49,Female
+6852,Lucy Durand,FernandesVille,26,Female
+6376,Gilbert Le Schmitt,Aubry-sur-Mer,30,Female
+4772,Georges Bailly,Saint Alexandre,47,Female
+4831,Agathe Cohen,Lejeune-sur-Weber,34,Male
+9198,Bernard Martinez,GuillotVille,54,Female
+7727,Lucas Perret,Saint Claire,21,Male
+6922,Agathe Lefèvre,Martinez-la-Forêt,65,Female
+7335,Élisabeth Da Costa-Marion,Saint Geneviève,30,Female
+4503,Henriette Dijoux,Hebert,55,Male
+5579,Frédéric du Lévêque,Costa-sur-Bonnet,54,Male
+6026,Joséphine-Margot Guillaume,Sainte Sophie,60,Male
+8240,Lucas Gaudin-Léger,Saint AnoukBourg,64,Male
+6185,Corinne Navarro,Barbier-sur-Martin,65,Female
+430,Stéphane Potier,Blanchet,26,Male
+367,Maurice Devaux de la Thierry,Sainte Stéphanie-sur-Mer,27,Male
+9917,Charlotte-Sylvie Godard,Pires-sur-Rodriguez,25,Male
+3672,Caroline Morvan,Berthelot-sur-Pons,32,Female
+8601,Nicolas Gomez,Dufour-sur-Lecoq,20,Male
+6089,Gérard de la Raymond,Martinez-la-Forêt,54,Male
+7856,Frédérique-Élise Joly,Coulondan,49,Male
+7839,Rémy Labbé,Leduc-sur-Lucas,59,Male
+8143,Stéphane Le Lebrun,Sainte BrigitteVille,55,Female
+8366,Robert-Éric Thierry,Martinez-sur-Antoine,26,Female
+8313,Agnès-Astrid Bonnin,Jean-sur-Bernard,59,Male
+5634,Léon-Robert Meunier,Langlois-sur-Lecomte,42,Female
+5887,William Chevalier,Voisin,37,Female
+2286,Océane Michel,Saint Émile-les-Bains,37,Male
+3353,Maryse Lefebvre,NguyenBourg,55,Female
+6459,Adèle Gillet de Guillou,Saint Nath,49,Female
+6155,Louis Robin,Riou,22,Female
+8647,Aimée Rémy,TecherBourg,25,Female
+9835,André Gosselin,Saint Alexandre,30,Female
+5213,Maryse Ferrand-Torres,Marty,58,Female
+9007,Nathalie François-Morin,Saint FrançoisVille,35,Female
+7074,Bernadette Denis,Hernandez-sur-Fabre,38,Female
+8216,Alexandrie Laurent,Jacobboeuf,65,Female
+8612,Pénélope Buisson,Brun,39,Female
+8180,Maurice Louis,Sainte Bernard,69,Female
+1829,Laetitia Gimenez Le Chartier,Henry,43,Male
+8081,Denis Dumont,Roy-sur-Boyer,28,Female
+3172,Étienne Millet du Bazin,Giraudnec,42,Male
+4800,Manon Pottier,Blanchet,23,Male
+8020,Mathilde Gosselin,Duhamel-sur-Voisin,61,Female
+9658,Alphonse Clerc,Costa,44,Male
+4096,Michel Georges,Verdier,54,Male
+7610,Océane Marin,Sainte Théodore,25,Female
+2452,Denis Maillet,Courtois-les-Bains,62,Female
+9601,Honoré Sauvage,Legendre,19,Female
+1036,Rémy Moulin,Paris,23,Female
+4710,Matthieu Julien,Jacob-sur-Mer,38,Male
+3610,Joseph Michaud,Reynauddan,42,Female
+8023,Émilie Martineau,Denis,62,Male
+3546,Julien Delahaye,Hebert,50,Female
+8873,Alexandre Gillet,Dijoux-sur-Henry,55,Female
+6190,Jeanne Legrand-Royer,Cohen,38,Female
+1615,Stéphanie de la Lelièvre,Valette,49,Male
+2629,Corinne Gros Le Gosselin,Hamon-sur-Mer,37,Female
+7654,Luc Rocher,Sainte Diane-les-Bains,57,Female
+2872,Inès Menard du Pires,Morel,30,Female
+5270,Auguste Delaunay,Besson-sur-Fleury,56,Female
+3592,Diane Tessier-Chauvet,Wagner,64,Female
+6615,Grégoire Lenoir,Lebreton-sur-Tanguy,32,Female
+1841,Valentine Gosselin,Sainte Sylvie-la-Forêt,19,Female
+2346,Luce Thomas-Jacques,GomesBourg,64,Female
+7744,Émilie Couturier,LegrosBourg,35,Female
+8949,Alexandre Sauvage,Guilbert,36,Male
+9532,Élisabeth Clément,Le Goffboeuf,64,Female
+3021,André Dos Santos-Meyer,Chauvet,32,Male
+5519,Caroline Weiss,Sainte Jeanninenec,29,Female
+9953,Caroline Gonzalez,Da Silva,27,Female
+1749,Mathilde Petitjean,Sainte Pénélope-sur-Mer,62,Male
+5681,Richard-Charles Dos Santos,Pottier,36,Female
+6152,Pierre Barbe de la Jourdan,Sainte Jacques,42,Male
+4132,Arthur David du Couturier,Normand,25,Female
+8836,Martine Techer-Guillou,Dumas,27,Female
+6777,Thérèse Maréchal,Chevallier-la-Forêt,57,Male
+5940,Véronique Boulay,Clément,61,Female
+8950,Xavier Ruiz de la Schmitt,Perret-sur-Mer,28,Female
+7946,Alphonse Antoine du Fournier,Laroche,34,Male
+8993,Stéphanie-Agnès Hoareau,Alves,40,Female
+6029,Adrien Gimenez,Mahe,22,Female
+7568,Théodore du Prévost,LombardBourg,70,Male
+8926,Gabriel de Brunel,Vallée-les-Bains,51,Female
+5407,Roland Da Silva Le Antoine,Alexandre,43,Female
+730,Zacharie Courtois,Sainte Adrienne,34,Female
+3519,Manon Morin,Maillet,27,Female
+8747,Manon Bailly,Meunier-les-Bains,63,Male
+168,Arnaude de Chartier,Chrétienboeuf,46,Female
+1554,Émile de Pasquier,Saint Jacqueline,47,Female
+4169,Jeannine Roux,Bailly-sur-Colin,55,Male
+8371,Josette Lagarde,Saint Henriette,68,Male
+3919,Benjamin Devaux,Louis,53,Female
+898,Susan-Philippine Coulon,Sainte Frédéricboeuf,50,Male
+3782,Marcel Guillot,Legendre-sur-Lefèvre,44,Male
+7444,Thibault Rocher,Saint Gillesdan,49,Male
+1594,Laetitia Marques,Sainte Bertrand,26,Male
+2006,Édouard Moreau,Perrot-les-Bains,49,Male
+7354,Marie Bonneau,Lagarde-sur-Lefort,66,Female
+8953,Henriette-Élisabeth Louis,ChauvetBourg,59,Female
+4036,Audrey Riou-Meunier,Vasseur,26,Male
+8150,Benjamin Lenoir,Perret,70,Male
+7509,Michèle Maury de la Arnaud,Vaillant-les-Bains,28,Male
+5275,Arthur Guillot,Le GallBourg,20,Male
+4194,Margaret de Pereira,Lebon-sur-Loiseau,37,Female
+5217,Robert Lévêque-Delmas,LévyVille,28,Female
+1421,Alphonse-Michel Monnier,Sainte Zacharie,48,Male
+5156,Margot de Pascal,Jacquot-la-Forêt,52,Female
+3278,Emmanuel du Rousseau,Sainte Catherine,43,Male
+6932,Roland Simon,Sainte MathildeBourg,36,Female
+4004,Jean Royer-Lacombe,Saint Suzanneboeuf,22,Female
+4152,Philippine Mary-Lelièvre,Le Roux,47,Male
+7007,Olivier Picard-Leduc,Sainte Jeanne,55,Male
+1329,Jacques Fournier,Torresdan,22,Male
+9331,Aimée Boucher de la Antoine,Sainte Roger,37,Female
+5830,Nicolas Charles de Andre,Saint CatherineVille,18,Male
+7066,Maurice Faure,Sainte Constancenec,70,Male
+8607,Sébastien-Raymond Henry,Guérin,29,Male
+2882,Thomas Cousin,Bruneau,23,Male
+3786,Alain Blot,Dias,58,Male
+5367,Antoine Dupuy Le Bouchet,Royer-les-Bains,37,Female
+8899,Margot de la Caron,LopesVille,25,Male
+5723,Olivie Dumas,Marchand,32,Male
+9746,Alphonse Le Arnaud,Jourdan,59,Female
+7253,Stéphane Rossi,PoulainVille,48,Male
+8203,Odette Le Faure,Saint Dominiqueboeuf,28,Female
+7174,Henriette Rodrigues,Lemonnier,55,Female
+3227,Célina Payet,Lesage,34,Female
+8780,Christine Fernandes,Letellier-sur-Lambert,62,Male
+9935,Brigitte Tessier,Guillet,58,Female
+3795,Nicolas Texier,Valette,69,Male
+3657,Marianne Mercier,Saint HenriVille,22,Female
+274,Capucine Garcia-Weiss,Henry-sur-Mer,51,Female
+842,Pierre Daniel,Lacroix,64,Female
+9213,Jeannine-Marcelle Coulon,Imbertboeuf,52,Female
+5895,Josette de la Roche,Charpentier,63,Female
+9163,Vincent Gay-Joseph,BègueVille,29,Female
+7340,Vincent-Noël Bousquet,Bernier,46,Male
+6333,Olivier Colas,Pierre,35,Male
+4717,William Guilbert,Briand,43,Male
+6322,Maurice Germain,MoulinVille,46,Male
+8138,Marc Nicolas,Collin,21,Female
+9933,Isaac de Tessier,Sainte Jeannedan,40,Female
+3989,Manon Martins,Vidal,21,Male
+7767,Frédérique Marie,MarinVille,43,Male
+9666,Richard Collet,Sainte Josette,61,Male
+9867,Lorraine Allain,Michaud-sur-Martin,44,Male
+3360,Marianne Lopes Le Bouchet,Guillaume,21,Male
+9559,Martin Rolland-Morel,TecherBourg,32,Female
+6899,Célina Barbier,Le Roux-sur-Couturier,20,Female
+6320,Alexandre-Émile Faure,Saint RichardBourg,37,Female
